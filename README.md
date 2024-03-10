@@ -7,37 +7,15 @@ The repository is organized into subdirectories, each representing a specific da
 Project List
 Here are a few of the projects you can find in this repository:
 
-Project 1: # Unsupervised Learning Trading Strategy
-
-* Download/Load SP500 stocks prices data.
-* Calculate different features and indicators on each stock.
-* Aggregate on monthly level and filter top 150 most liquid stocks.
-* Calculate Monthly Returns for different time-horizons.
-* Download Fama-French Factors and Calculate Rolling Factor Betas.
-* For each month fit a K-Means Clustering Algorithm to group similar assets based on their features.
-* For each month select assets based on the cluster and form a portfolio based on Efficient Frontier max sharpe ratio optimization.
-* Visualize Portfolio returns and compare to SP500 returns.
-
-Project 2: # Twitter Sentiment Investing Strategy
-
-* Collecting data from Twitter(X), data on stocks and comparing it with other stocks based on thier likes and comments.
-* Aggregate on a monthly level and calculate average monthly metric, for the one we choose.
-* Select top 5 stocks by rank for each month and fix the date to start at beginning of next month.
-* Create a dictionary containing start of month and corresponded selected stocks.
-* Download fresh stock prices for only selected/shortlisted stocks.
-* Calculate Portfolio Returns with monthly rebalancing.
-* Download NASDAQ/QQQ prices and calculate returns to compare to our strategy
-
-Project 3: # Intraday Strategy Using GARCH Model
-
-* Using simulated daily data and intraday 5-min data.
-* Load Daily and 5-minute data.
-* Define function to fit GARCH model on the daily data and predict 1-day ahead volatility in a rolling window.
-* Calculate prediction premium and form a daily signal from it.
-* Merge with intraday data and calculate intraday indicators to form the intraday signal.
-* Generate the position entry and hold until the end of the day.
-* Calculate final strategy returns.
-* 
+Project 1: # Cricket Data Analytics Project
+* Collecting data from ESPN Cricket website, and Transforming that data into JSON file, the file contains player statistics from the 2022 T20 World Cup matches, including batting averages, bowling averages, strike rates, and other relevant metrics.
+* Then after that we preprocess the data via data cleaning, to handle missing values, standardize formats, and prepare it for analysis.
+* After cleaning the data I have exported the data to excel files.
+* Then we perform data transformation in Power Query.
+* Then Data modeling and building parameters using DAX.
+* Build dashboard in Power BI.
+* Collect insights from the dashboard and select the final 11 players.
+ 
 Feel free to explore the individual project directories to access detailed project descriptions, code, and documentation. If you have any questions or would like to get in touch, don't hesitate to contact me.
 
 I hope you find these projects insightful and informative. Thank you for visiting!
