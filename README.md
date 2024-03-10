@@ -20,9 +20,4 @@ Feel free to explore the individual project directories to access detailed proje
 
 I hope you find these projects insightful and informative. Thank you for visiting!
 
-## Acknowledgment
-
-This project is based on the fantastic work of @lachone_ , whose Algorithmic Trading – Machine Learning & Quant Strategies Course with Python([link-to-original-source](https://youtu.be/9Y3yaoi9rUQ?feature=shared)) served as the foundation for this work.
-
-
 Jagjeet Singh Chauhan
