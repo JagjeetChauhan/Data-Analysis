@@ -15,6 +15,10 @@ Project 1: # Cricket Data Analytics Project
 * Then Data modeling and building parameters using DAX.
 * Build dashboard in Power BI.
 * Collect insights from the dashboard and select the final 11 players.
+
+Project 2: # Ecommerce Store Sales Dashboard
+* Created an interactive dashboard using PowerBI
+* Track and analyze online sales data
  
 Feel free to explore the individual project directories to access detailed project descriptions, code, and documentation. If you have any questions or would like to get in touch, don't hesitate to contact me.
 
