@@ -7,7 +7,7 @@ The repository is organized into subdirectories, each representing a specific da
 Project List
 Here are a few of the projects you can find in this repository:
 
-Project 1: # Cricket Data Analytics Project
+Project 1: **Cricket Data Analytics Project**
 * Collecting data from ESPN Cricket website, and Transforming that data into JSON file, the file contains player statistics from the 2022 T20 World Cup matches, including batting averages, bowling averages, strike rates, and other relevant metrics.
 * Then after that we preprocess the data via data cleaning, to handle missing values, standardize formats, and prepare it for analysis.
 * After cleaning the data I have exported the data to excel files.
@@ -16,9 +16,17 @@ Project 1: # Cricket Data Analytics Project
 * Build dashboard in Power BI.
 * Collect insights from the dashboard and select the final 11 players.
 
-Project 2: # Ecommerce Store Sales Dashboard
+Project 2: **Ecommerce Store Sales Dashboard**
 * Created an interactive dashboard using PowerBI
 * Track and analyze online sales data
+
+Project 3: **Electric Vehicles Market Size Analysis**
+* EV Adoption Over Time: Analyze the growth of the EV population by model year.
+* Geographical Distribution: Understand where EVs are most commonly registered (e.g., by county or city).
+* EV Types: Breakdown of the dataset by electric vehicle type (BEV, etc.).
+* Make and Model Popularity: Identify the most popular makes and models among the registered EVs.
+* Electric Range Analysis: Analyze the electric range of vehicles to see how EV technology is progressing.
+* Estimated Growth in Market Size: Analyze and find the estimated growth in the market size of electric vehicles.
  
 Feel free to explore the individual project directories to access detailed project descriptions, code, and documentation. If you have any questions or would like to get in touch, don't hesitate to contact me.
 
